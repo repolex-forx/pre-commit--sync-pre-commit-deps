@@ -1,0 +1,11 @@
+{
+  "org": "pre-commit",
+  "repo": "sync-pre-commit-deps",
+  "versions": [
+    {
+      "commit": "eb61537bdfde28d178b8f06aa9f13b46b77ca4cf",
+      "tag": "",
+      "parsed_at": "2026-10-20T11:39:00.028677+00:00"
+    }
+  ]
+}
